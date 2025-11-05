@@ -1,3 +1,7 @@
 <p align="center">
-  <img src="https://github.com/yourusername/Brain-Tumor-Segmentation-U-Net/blob/main/sample_result.png" width="600">
+  <img src="Screenshot%202025-11-05%20214411.png" width="700" alt="Brain Tumor Segmentation Example">
+</p>
+
+<p align="center">
+  <em>Original MRI (FLAIR) | Ground Truth Mask | Predicted Mask</em>
 </p>
